@@ -1,0 +1,10 @@
+C:\User\!Kirill\GitHub\WindForms_9\Практика 15.2\Практика 15.2\bin\Debug\Практика 15.2.exe.config
+C:\User\!Kirill\GitHub\WindForms_9\Практика 15.2\Практика 15.2\bin\Debug\Практика 15.2.exe
+C:\User\!Kirill\GitHub\WindForms_9\Практика 15.2\Практика 15.2\bin\Debug\Практика 15.2.pdb
+C:\User\!Kirill\GitHub\WindForms_9\Практика 15.2\Практика 15.2\obj\Debug\Практика 15.2.csprojAssemblyReference.cache
+C:\User\!Kirill\GitHub\WindForms_9\Практика 15.2\Практика 15.2\obj\Debug\Практика_15._2.Form1.resources
+C:\User\!Kirill\GitHub\WindForms_9\Практика 15.2\Практика 15.2\obj\Debug\Практика_15._2.Properties.Resources.resources
+C:\User\!Kirill\GitHub\WindForms_9\Практика 15.2\Практика 15.2\obj\Debug\Практика 15.2.csproj.GenerateResource.cache
+C:\User\!Kirill\GitHub\WindForms_9\Практика 15.2\Практика 15.2\obj\Debug\Практика 15.2.csproj.CoreCompileInputs.cache
+C:\User\!Kirill\GitHub\WindForms_9\Практика 15.2\Практика 15.2\obj\Debug\Практика 15.2.exe
+C:\User\!Kirill\GitHub\WindForms_9\Практика 15.2\Практика 15.2\obj\Debug\Практика 15.2.pdb
